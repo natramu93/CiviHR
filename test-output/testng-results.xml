@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+    <line>
+      <![CDATA[Working with Firefox]]>
+    </line>
+    <line>
+      <![CDATA[Add Document Link Clicked]]>
+    </line>
+    <line>
+      <![CDATA[Target Contact Updated]]>
+    </line>
+    <line>
+      <![CDATA[Document type selected]]>
+    </line>
+    <line>
+      <![CDATA[Due Date Updated]]>
+    </line>
+    <line>
+      <![CDATA[Assignee Added]]>
+    </line>
+    <line>
+      <![CDATA[Form Saved]]>
+    </line>
+    <line>
+      <![CDATA[The new document is updated successfully]]>
+    </line>
+    <line>
+      <![CDATA[Working with Firefox]]>
+    </line>
+    <line>
+      <![CDATA[Edit Document Link Clicked]]>
+    </line>
+    <line>
+      <![CDATA[Target Contact Updated]]>
+    </line>
+    <line>
+      <![CDATA[Document type selected]]>
+    </line>
+    <line>
+      <![CDATA[Due Date Updated]]>
+    </line>
+    <line>
+      <![CDATA[Assignee Added]]>
+    </line>
+    <line>
+      <![CDATA[Form Updated]]>
+    </line>
+    <line>
+      <![CDATA[The new document is updated successfully]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="144477" started-at="2016-07-21T12:20:32Z" finished-at="2016-07-21T12:22:57Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="144477" started-at="2016-07-21T12:20:32Z" finished-at="2016-07-21T12:22:57Z">
+      <class name="execution.TestSuite">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:execution.TestSuite@39aeed2f]" name="beforeClass" is-config="true" duration-ms="67291" started-at="2016-07-21T17:50:32Z" finished-at="2016-07-21T17:51:39Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Working with Firefox]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="New_Document()[pri:1, instance:execution.TestSuite@39aeed2f]" name="New_Document" duration-ms="22358" started-at="2016-07-21T17:51:39Z" finished-at="2016-07-21T17:52:02Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Add Document Link Clicked]]>
+            </line>
+            <line>
+              <![CDATA[Target Contact Updated]]>
+            </line>
+            <line>
+              <![CDATA[Document type selected]]>
+            </line>
+            <line>
+              <![CDATA[Due Date Updated]]>
+            </line>
+            <line>
+              <![CDATA[Assignee Added]]>
+            </line>
+            <line>
+              <![CDATA[Form Saved]]>
+            </line>
+            <line>
+              <![CDATA[The new document is updated successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- New_Document -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:execution.TestSuite@39aeed2f]" name="afterClass" is-config="true" duration-ms="1419" started-at="2016-07-21T17:52:02Z" finished-at="2016-07-21T17:52:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:execution.TestSuite@39aeed2f]" name="beforeClass" is-config="true" duration-ms="30821" started-at="2016-07-21T17:52:03Z" finished-at="2016-07-21T17:52:34Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Working with Firefox]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="Edit_Document()[pri:2, instance:execution.TestSuite@39aeed2f]" name="Edit_Document" duration-ms="21559" started-at="2016-07-21T17:52:34Z" finished-at="2016-07-21T17:52:56Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Edit Document Link Clicked]]>
+            </line>
+            <line>
+              <![CDATA[Target Contact Updated]]>
+            </line>
+            <line>
+              <![CDATA[Document type selected]]>
+            </line>
+            <line>
+              <![CDATA[Due Date Updated]]>
+            </line>
+            <line>
+              <![CDATA[Assignee Added]]>
+            </line>
+            <line>
+              <![CDATA[Form Updated]]>
+            </line>
+            <line>
+              <![CDATA[The new document is updated successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Edit_Document -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:execution.TestSuite@39aeed2f]" name="afterClass" is-config="true" duration-ms="1002" started-at="2016-07-21T17:52:56Z" finished-at="2016-07-21T17:52:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- execution.TestSuite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
